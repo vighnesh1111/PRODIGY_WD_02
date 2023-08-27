@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    font-size: 50px;
+    background-color: rgb(48, 134, 31);
+    color: white;
+    padding: 25px;
+    padding-left: 100px;
+}
+
+.main {
+    width: 50%;
+    margin: auto;
+    height: 350px;
+    padding-top: 50px;
+    font-size: 100px;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: rgb(48, 134, 31);
+    color: white;
+    font-size: x-large;
+    border-radius: 50px;
+}
+
+#lab {
+    padding-top: 25px;
+    background-color: rgb(48, 134, 31);
+    font-size: larger;
+    margin: auto;
+    width: 50%;
+    color: white;
+}
+
+li {
+    font-size: larger;
+}
+
+.task {
+    text-align: center;
+    list-style: none;
+    font-size: larger;
+}
+
+.hm {
+    display: none;
+}
